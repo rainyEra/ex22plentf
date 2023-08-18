@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  font-family: "Exo 2", sans-serif;
+}
+.app {
+  padding-top: 2vh;
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  justify-content: center;
+}
+.app ul {
+  gap: 60px;
+  display: flex;
+}
+.app li {
+  padding: 5px;
+  list-style: none;
+}
+.hello {
+  font-family: "DAMN";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+
+  letter-spacing: 0.03em;
+
+  color: #0006f8;
+}
